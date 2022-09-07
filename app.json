@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+            "description": "Enter whatsapp web session. ( https://red-dragon-lite-qr-genarator.on.drv.tw/Red%20Dragon%20Lite%20QR%20Scaner/ )",
             "required": true
         },
         "SUDO": {
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "ImRishmikaOfficle"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
