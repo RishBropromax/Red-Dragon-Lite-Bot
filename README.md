@@ -18,8 +18,10 @@ YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
 
 > First Fork This Repo And Deploy.. <br>
 
+> Better Use Web Scan
 [Web Scan](https://levanter.up.railway.app/md) <br>
 [Replit QR Scan](https://replit.com/@ImRishmika/Red-Dragon-Lite-QR?v=1)
+
 > Scan QR Code QR is Not Working You Can Use Replit QR Scaner
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
