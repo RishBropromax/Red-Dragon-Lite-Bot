@@ -9,11 +9,10 @@ PowerFull And Fast Simple Group Manager Bot And UserBot On Whatsapp. <br>
 
 >ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
 
-> You Can use Whatsapp Business
-
 Recommended WhatsApp👇
->Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp) <br>
->YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
+
+Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp) <br>
+YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
 
 ## Easy Devolopment
 
